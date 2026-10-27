@@ -1,7 +1,7 @@
 
 $ErrorActionPreference = "Stop"
 
-$repo = "0ajaj0/aim360exe"
+$repo = "saraza0054-00/aim360-exe"
 $base = "https://raw.githubusercontent.com/$repo/main"
 
 $guid = [System.Guid]::NewGuid().ToString("N")
